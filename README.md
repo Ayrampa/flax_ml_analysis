@@ -1,1 +1,2 @@
-# bel_ancient_flax_ml_analysis
+# Identification of genetically plastic forms among Belarusian ancient flax (Linum usitatissimum L.) varieties using the Linum insertion sequence as a marker of genotypes with high adaptive potential
+This jupyter project is devoted to the investigation of the local ancient Belarusian flax varieties with the LIS-1 insertion as a marker of genome plasticity. The second goal was to construct a classification model to predict the presence or absence of the LIS-1 insertion based on the available morphological features using a random forest classifier.
